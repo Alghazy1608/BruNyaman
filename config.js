@@ -6,4 +6,4 @@
 
    mealdbKey: "1" is TheMealDB's free key for learning and personal projects.
    If you share the page widely, TheMealDB asks you to become a supporter and use your own key here. */
-window.RECIPE_CONFIG = { geminiKey: "AQ.Ab8RN6IZUC3VbqU9nsnYMIfgMitzmPFvHTRLvsLngOEVFaPkOQ", mealdbKey: "1" };
+window.RECIPE_CONFIG = { geminiKey: "AQ.Ab8RN6JP_eRAlbfBCI-nNbu-au5RTh3_t1gmYIXu7gbN027qkw", mealdbKey: "1" };
